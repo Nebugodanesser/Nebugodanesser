@@ -12,3 +12,5 @@
 Повторить?
 
 ![image](https://github.com/user-attachments/assets/98b5cc83-29e2-4ef7-bd3b-b27f1e2c7a0f)
+
+// Верховный Жрец
